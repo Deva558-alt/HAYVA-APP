@@ -300,20 +300,4 @@ Email: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
-```
 
----
-
-## 🔥 This version will:
-- Impress **judges**
-- Impress **recruiters**
-- Look like a **serious product project**
-
----
-
-If you want next level:
-👉 I can add **badges + GIF demo + architecture diagram image**  
-👉 Or convert this into a **resume project entry that gets shortlisted**
-
-Just say 👍
-```
